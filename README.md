@@ -5,9 +5,9 @@
 Hello! I'm mrjeet aka Vishwajeet Yadav, a passionate developer and tech enthusiast. 
 
 ### 🌟 Quick Introduction
-- 💻 Currently working on [Current Project/Job]
-- 🌱 Learning [Current Technologies/Skills]
-- 🎓 Background in [Your Field of Study]
+- 💻 Currently working on [Hadiya Bazzar E-Commers Web App/EWS]
+- 🌱 Learning [Dot Net Core API, MVC, React]
+- 🎓 Background in [Graduate]
 
 ## 🛠️ Tech Stack
 
